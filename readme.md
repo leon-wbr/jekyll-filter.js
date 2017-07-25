@@ -11,7 +11,7 @@ This script provides a simple way to add filters to a page within Jekyll. It's i
 
 ## How to use
 
-* Add Liquid.js and jekyll-filter.js to your page's JS files.
+* Add Liquid.js, jQuery and jekyll-filter.js to your page's JS files.
 * Generate the JSON file, this is done by creating a file like this:
 
 ```json
